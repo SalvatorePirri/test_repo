@@ -4,8 +4,8 @@ author: "Salvatore Pirri"
 date: "14/2/2020"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
+change again and see if thing works better
+```{r}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
